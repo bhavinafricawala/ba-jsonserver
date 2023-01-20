@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "bhavinafricawala@gmail.com",
+      "password": "pass123"
+    },
+    {
+      "id": "2",
+      "email": "abc@gmail.com",
+      "password": "pass123"
+    }
+  ]
+}
